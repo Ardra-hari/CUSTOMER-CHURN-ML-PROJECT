@@ -11,8 +11,8 @@
 
 2. Project Objective:
   The objective of the project is to analyze customer churn data within the telecommunications industry and develop predictive models to identify factors influencing customer churn. It includes performing
-  Data Manipulation, Data Visualization , Linear Regression , Logistic Regression , Decision Tree and Random Forest on the data of “Neo” company whose customers are churning out to its competitors and find insights
-  and stop the customers from churning out to other telecom companies. Overall, the objective is to leverage data science techniques to help the telecom company understand and address customer churn,
+  Data Manipulation, Data Visualization , Linear Regression , Logistic Regression , Decision Tree and Random Forest on the data of “Neo” company whose customers are churning out to its competitors and find 
+  insights and stop the customers from churning out to other telecom companies. Overall, the objective is to leverage data science techniques to help the telecom company understand and address customer churn,
   thereby enhancing customer satisfaction and loyalty.The dataset Customer_churn.csv contains 7043 rows and 21 columns.
 
 3. Data Pre-processing Steps and Inspiration:
